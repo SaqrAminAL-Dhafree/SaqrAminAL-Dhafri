@@ -1,4 +1,4 @@
-# Hi, I'm Saqr Ameen Al-Dhafri 
+# Hi, I'm Saqr Ameen Al-Dhafree
 
 ### Full Stack Developer | Flutter & Dart | Backend Development
 
